@@ -15,5 +15,13 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 ## Citation
 -Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020). (link)
 
-##License
-**CC BY 4.0**
+# Provenance
+## SOURCES
+
+[VIEW SOURCE ](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records) or <https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records>
+
+## COLLECTION METHODOLOGY
+Please refer to source.
+
+## License
+**Attribution 4.0 International (CC BY 4.0)**
