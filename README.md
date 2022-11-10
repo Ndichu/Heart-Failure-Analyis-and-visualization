@@ -14,13 +14,11 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 # :toolbox: libraries used
 1. pandas
-2. numpy
-3. matplotlib
+2. matplotlib
 4. seaborn
-5. sklearn
-6. scipy
 
-# :basecamp: Repository Map
+
+# Repository Map
 :ballot_box_with_check: heart_failure_clinical_records_dataset.csv - the dataset used in the analysis
 :ballot_box_with_check: heart_failure_Analysis.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
 :ballot_box_with_check: README.md
