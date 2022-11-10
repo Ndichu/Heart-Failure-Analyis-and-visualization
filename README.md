@@ -38,11 +38,11 @@ During my analysis I found out that tobacco use and exposure to tobacco smoke is
 # Findings
 1. **Awareness** is paramount in the control of Coronary Heart Diseases in Kenya.
 
-2. Smoking and exposure to smoke (Especially smoking tobacco and exposure to tobacco) is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke.
+2. **Smoking** and **exposure to smoke** (Especially smoking tobacco and exposure to tobacco) is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke.
 
-3. Educating the public on adopting healthy lifestyles is also key in the control of Coronary Heart Diseases in Kenya. More than half (56%) of the adult population has never had their blood pressure measured yet almost 1 in 4 Kenyans is living with hypertension and with just about a quarter of them being on medication.
+3. **Educating the public** on **adopting healthy lifestyles** is also key in the control of Coronary Heart Diseases in Kenya. More than half (56%) of the adult population has never had their blood pressure measured yet almost 1 in 4 Kenyans is living with hypertension and with just about a quarter of them being on medication.
 
-4. About 11.6% (2.5 Million) of adult Kenyans and 9.9 % of youth aged between 13 -15 years use tobacco products; while 86.1% of adults are exposed to second-hand tobacco smoke in bars and night clubs and 24.8% of youth being exposed at home. This demonstrates that a high number of Kenyans are prone to tobacco-related NCDs such as hypertension and other CVDs
+4. About 11.6% (2.5 Million) of adult Kenyans and 9.9 % of youth aged between 13 -15 years use tobacco products; while 86.1% of adults are exposed to **second-hand tobacco smoke** in bars and night clubs and 24.8% of youth being exposed at home. This demonstrates that a high number of Kenyans are prone to tobacco-related NCDs such as hypertension and other CVDs
 
 # :black_nib: Acknowledgements
 ## Citation
