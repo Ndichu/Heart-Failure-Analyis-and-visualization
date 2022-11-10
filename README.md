@@ -47,7 +47,7 @@ During my analysis I found out that tobacco use and exposure to tobacco smoke is
 3. **Is there a relationship between Diabetes with heart failure** NO! From the data, it is observed that there is little to no relationship between diabetes and heart failure
 
 
-# Reasearch Findings
+# Research Findings
 1. **Awareness** is paramount in the control of Coronary Heart Diseases in Kenya.
 
 2. **Smoking** and **exposure to smoke** (Especially smoking tobacco and exposure to tobacco) is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke.
