@@ -10,7 +10,12 @@ Most cardiovascular diseases can be prevented by addressing behavioural risk fac
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 # :dart: Analysis Goal 
-* Create a model for predicting mortality caused by Heart Failure.
+## Find out the following :->
+1. **Is there a relationship between gender and heart failure ?** 
+
+2. **Is there a relationship between Age with heart failure ?** 
+
+3. **Is there a relationship between Diabetes with heart failure**
 
 # :toolbox: libraries used
 1. pandas
@@ -34,7 +39,7 @@ However, There has been an increasing rate of Coronary Heart Disease ever since 
 During my analysis I found out that tobacco use and exposure to tobacco smoke is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke that eventually result to high death-rates  
 
 
-# Data analyis Question and Findings
+# Data analyis goals Findings
 1. **Is there a relationship between gender and heart failure ?** YES! From the data, it is observed that the male have more death count compared to women and hence are more likely to succumb to heart failure.
 
 2. **Is there a relationship between Age with heart failure ?** YES! From the data, it is observed that Older people compared to the young are prone to succumbing to heart failure
