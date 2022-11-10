@@ -33,7 +33,16 @@ However, There has been an increasing rate of Coronary Heart Disease ever since 
 
 During my analysis I found out that tobacco use and exposure to tobacco smoke is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke that eventually result to high death-rates  
 
-# Findings
+
+# Data analyis Question and Findings
+1. **Is there a relationship between gender and heart failure ?** YES! From the data, it is observed that the male have more death count compared to women and hence are more likely to succumb to heart failure.
+
+2. **Is there a relationship between Age with heart failure ?** YES! From the data, it is observed that Older people compared to the young are prone to succumbing to heart failure
+
+3. **Is there a relationship between Diabetes with heart failure** NO! From the data, it is observed that there is little to no relationship between diabetes and heart failure
+
+
+# Reasearch Findings
 1. **Awareness** is paramount in the control of Coronary Heart Diseases in Kenya.
 
 2. **Smoking** and **exposure to smoke** (Especially smoking tobacco and exposure to tobacco) is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke.
