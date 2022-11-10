@@ -1,6 +1,6 @@
 # Predicting-Heart-Failure :stethoscope:
-*Heart Failure Prediction of 12 clinical features for predicting death events.
-*The 12 clinical features include: age, anaemia, creatinine_phosphokinase, diabetes, ejection_fraction, high_blood_pressure, platelets, serum_creatinine, serum_sodium, sex, smoking, and time. 
+* Heart Failure Prediction of 12 clinical features for predicting death events.
+* The 12 clinical features include: age, anaemia, creatinine_phosphokinase, diabetes, ejection_fraction, high_blood_pressure, platelets, serum_creatinine, serum_sodium, sex, smoking, and time. 
 
 # About Dataset 
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
