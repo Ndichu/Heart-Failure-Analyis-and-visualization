@@ -31,12 +31,12 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 3. :ballot_box_with_check: README.md
 
 # Inspiration
-**Why this analysis**
+**Why this analysis ?**
 
 Coronary Heart Diseases is not a new occurrence in Kenya Today.
 According to the latest WHO data published in 2020 Coronary Heart Disease Deaths in Kenya reached 11,972 or 4.54% of total deaths. The age adjusted Death Rate is 72.70 per 100,000 of population ranks Kenya #144 in the world.
 
-However, There has been an increasing rate of Coronary Heart Disease ever since 2018. This motivated me to understanding the causes of the increase in Coronary Heart Diseases and death rate in Kenya.
+However, There has been an increasing rate of Coronary Heart Disease in Kenya ever since 2018. This motivated me to understanding the causes of the increase in Coronary Heart Diseases and death rate in Kenya.
 
 During my analysis I found out that tobacco use and exposure to tobacco smoke is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke that eventually result to high death-rates  
 
