@@ -1,5 +1,5 @@
-# Heart-Failure-Analyis-and-visualization :stethoscope:
-* Heart-Failure-Analyis-and-visualization of 12 clinical features for predicting death events.
+# Heart-Failure-Analysis-and-visualization :stethoscope:
+* Heart-Failure-Analysis-and-visualization of 12 clinical features for predicting death events.
 * The 12 clinical features include: age, anaemia, creatinine_phosphokinase, diabetes, ejection_fraction, high_blood_pressure, platelets, serum_creatinine, serum_sodium, sex, smoking, and time. 
 
 # About Dataset 
@@ -27,7 +27,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 # Repository Map
 1. :ballot_box_with_check: heart_failure_clinical_records_dataset.csv - the dataset used in the analysis
-2. :ballot_box_with_check: Heart-Failure-Analyis-and-visualization.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
+2. :ballot_box_with_check: Heart-Failure-Analysis-and-visualization.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
 3. :ballot_box_with_check: README.md
 
 # Inspiration
