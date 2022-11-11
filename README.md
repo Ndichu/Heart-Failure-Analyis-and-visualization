@@ -1,5 +1,6 @@
-# Predicting-Heart-Failure :stethoscope:
-* Heart Failure Prediction of 12 clinical features for predicting death events.
+# Heart-Failure-Analyis-and-visualization
+ :stethoscope:
+* Heart-Failure-Analyis-and-visualization of 12 clinical features for predicting death events.
 * The 12 clinical features include: age, anaemia, creatinine_phosphokinase, diabetes, ejection_fraction, high_blood_pressure, platelets, serum_creatinine, serum_sodium, sex, smoking, and time. 
 
 # About Dataset 
@@ -9,8 +10,10 @@ Heart failure is a common event caused by CVDs and this dataset contains 12 feat
 Most cardiovascular diseases can be prevented by addressing behavioural risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity and harmful use of alcohol using population-wide strategies.
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
+
 # :dart: Analysis Goal 
 ## Find out the following :->
+
 1. **Is there a relationship between gender and heart failure ?** 
 
 2. **Is there a relationship between Age with heart failure ?** 
@@ -25,7 +28,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 # Repository Map
 1. :ballot_box_with_check: heart_failure_clinical_records_dataset.csv - the dataset used in the analysis
-2. :ballot_box_with_check: heart_failure_Analysis.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
+2. :ballot_box_with_check: Heart-Failure-Analyis-and-visualization.ipynb - the jupyter notebook containing all the code, all analysis and visualization. 
 3. :ballot_box_with_check: README.md
 
 # Inspiration
