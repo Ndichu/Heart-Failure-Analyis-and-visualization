@@ -41,13 +41,20 @@ However, There has been an increasing rate of Coronary Heart Disease in Kenya ev
 During my analysis I found out that tobacco use and exposure to tobacco smoke is a major cause of raised blood pressure and other forms of CVDs including heart attack and stroke that eventually result to high death-rates  
 
 
-# Data analyis goals Findings
+# Data analyis goals Findings and chart
 1. **Is there a relationship between gender and heart failure ?** YES! From the data, it is observed that the male have more death count compared to women and hence are more likely to succumb to heart failure.
+## chart
+![gender and heart failure Linechart](https://george.m.ndichu.ltd.co.ke/media/github/gender-death-rel%20count%20plot.png "Relationship between gender and heart failure Linechart")
 
 2. **Is there a relationship between Age with heart failure ?** YES! From the data, it is observed that Older people compared to the young are prone to succumbing to heart failure
+## chart
+![Age and heart failure Lineplot](https://george.m.ndichu.ltd.co.ke/media/github/age-heart-failure-lineplot.png "Relationship between age and heart failure Line plot")
 
 3. **Is there a relationship between Diabetes with heart failure ?** NO! From the data, it is observed that there is little to no relationship between diabetes and heart failure
-
+## chart 1
+![Diabetes and heart failure Countplot](https://george.m.ndichu.ltd.co.ke/media/github/diabetes-heart-failure-countplot.png "Relationship between Diabetes and heart failure Count plot")
+ ## chart 2
+![Diabetes and heart failure Line plot](https://george.m.ndichu.ltd.co.ke/media/github/diabetes-heart-failure-lineplot.png "Relationship between Diabetes and heart failure Line plot")
 
 # Research Findings
 1. **Awareness** is paramount in the control of Coronary Heart Diseases in Kenya.
