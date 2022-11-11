@@ -1,5 +1,5 @@
 # Heart-Failure-Analysis-and-visualization :stethoscope:
-* Heart-Failure-Analysis-and-visualization of 12 clinical features for predicting death events.
+* Heart Failure Analysis and visualization of 12 clinical features for predicting death events.
 * The 12 clinical features include: age, anaemia, creatinine_phosphokinase, diabetes, ejection_fraction, high_blood_pressure, platelets, serum_creatinine, serum_sodium, sex, smoking, and time. 
 
 # About Dataset 
