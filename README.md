@@ -17,7 +17,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 2. **Is there a relationship between Age with heart failure ?** 
 
-3. **Is there a relationship between Diabetes with heart failure**
+3. **Is there a relationship between Diabetes with heart failure ?**
 
 # :toolbox: libraries used
 1. pandas
@@ -31,7 +31,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 3. :ballot_box_with_check: README.md
 
 # Inspiration
-## Why this analysis
+**Why this analysis**
 
 Coronary Heart Diseases is not a new occurrence in Kenya Today.
 According to the latest WHO data published in 2020 Coronary Heart Disease Deaths in Kenya reached 11,972 or 4.54% of total deaths. The age adjusted Death Rate is 72.70 per 100,000 of population ranks Kenya #144 in the world.
@@ -46,7 +46,7 @@ During my analysis I found out that tobacco use and exposure to tobacco smoke is
 
 2. **Is there a relationship between Age with heart failure ?** YES! From the data, it is observed that Older people compared to the young are prone to succumbing to heart failure
 
-3. **Is there a relationship between Diabetes with heart failure** NO! From the data, it is observed that there is little to no relationship between diabetes and heart failure
+3. **Is there a relationship between Diabetes with heart failure ?** NO! From the data, it is observed that there is little to no relationship between diabetes and heart failure
 
 
 # Research Findings
